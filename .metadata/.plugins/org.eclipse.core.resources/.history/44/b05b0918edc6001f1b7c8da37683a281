@@ -1,0 +1,5 @@
+package com.gestion.productos.modelo;
+
+public class Producto {
+
+}

@@ -1,0 +1,6 @@
+#Configuración Aplicación
+spring.application.name=gestion-empleados-backend
+server.port=8084
+spring.profiles.active=dev
+
+
